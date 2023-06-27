@@ -29,7 +29,7 @@
 
 ### Contact Me:
 <div align="center">  
-<a href="pedrojcoliveira2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL%23E4405F?style=for-the-badge&logo=Gmail&logoColor=red"</a>
+<a href="mailto:pedrojcoliveira2002@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a>
 </div>
 
 
