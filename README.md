@@ -38,6 +38,13 @@
     </a>
 </div>
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/pedro-oliveira-417b151a9/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
